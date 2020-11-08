@@ -35,8 +35,8 @@ Special thanks to [this person](t.me/denver02) for helping me.
 
 Deploy a bot like me [now](www.github.com/xditya/GroupManager)
 
- Create me  [this person 🇮🇳](t.me/shado_hackers)
-Join here.(t.me/omg_infotec)
+ Create me  with Love ❤️ [this person 🇮🇳](t.me/shado_hackers)
+[Join here](t.me/omg_infotec)
 Click /help or Help button below to find out more about how to use me to my full potential.
 
  Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
