@@ -1,5 +1,5 @@
 future
-emoji
+emoji==0.6.0
 requests
 sqlalchemy
 python-telegram-bot==11.1.0
@@ -19,7 +19,7 @@ PyLyrics
 #AEX
 hurry.filesize
 #translator
-googletrans
+googletrans==3.1.0a0
 
 tldextract
 PyYAML
